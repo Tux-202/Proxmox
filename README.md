@@ -5,3 +5,6 @@
   # Adguard LXC
 </div>
 ```
+
+## Credits
+- [iconduck](https://iconduck.com/)
